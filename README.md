@@ -1,2 +1,2 @@
 # GolangTraining
-Training for Golang (go language)
+Training for Golang (Go language)
